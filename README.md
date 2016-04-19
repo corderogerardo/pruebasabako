@@ -8,7 +8,6 @@
 ## Front-end
 
 - CSS: Bootstrap + Stylus.
-- JS: Angular. Utilizo Angular por que aparte de que lo conozco un poco, sirve para realizar la version Movil con Ionic - Cordova.
 - 
 
 ## Backend
@@ -25,8 +24,8 @@
 
 ## Mobile
 
-- Ionic Cordova: Aprovechando el uso de Angular.
-  - Solo version para android, ya que lamentablemente no tengo una Macbook o Hackbook con IOs.
+- Ionic Cordova:
+  - Solo version para android
 
 ## Testing
 
